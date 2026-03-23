@@ -1,0 +1,12 @@
+.env
+venv/
+downloads/
+*.log
+__pycache__/
+.cache/
+.gemini/
+
+*.file
+test_yt.py
+test_yt_search.log
+

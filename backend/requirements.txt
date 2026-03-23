@@ -1,0 +1,6 @@
+aiogram>=3.0.0
+yt-dlp
+mutagen
+google-generativeai
+python-dotenv
+pydantic-settings
